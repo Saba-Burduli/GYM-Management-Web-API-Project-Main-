@@ -13,7 +13,7 @@ Let's Talk about layers in my Project :
 
 <ul>
   <li>API Layer</li>
-  <li>RegisterUser()</li>
+  <li>Service Layer</li>
   <li> SubscripitonInfo()</li>
 </ul>
 
