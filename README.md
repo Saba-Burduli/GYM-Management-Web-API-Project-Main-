@@ -39,13 +39,14 @@ Let's Talk about layers in my Project :
     </p>
     
   <h3><li>Service Layer</li></h3>
-  <p>
+    <p> The Service Layer acts as an intermediary between the API layer and the data access layer (DAL).
+      It contains business logic and ensures a clean separation of concerns.
 
     
     
   </p>
   
-  <li></li>
+  <li>DAL (Data Access Layer)</li>
   <li></li>
   
 </ol>
