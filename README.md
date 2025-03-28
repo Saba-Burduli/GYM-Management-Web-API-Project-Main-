@@ -9,6 +9,8 @@ For Security Main most important thing in Code is to create Repository and Servi
 
 
 We gonna add and create in IRepository Folder . Because If non ethical hacker trying to crack your program and functionality its easy to get in Service layer(Business Layer in API). So its Common Way to Implement this important mathods in Repository's Folder(In API Layer)
+Let's Talk about layers in my Project :
+
 
 See Full Project on my Github : https://github.com/Saba-Burduli/GYM-Management-Web-API-Project
 
