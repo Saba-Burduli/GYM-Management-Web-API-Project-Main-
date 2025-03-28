@@ -15,7 +15,7 @@ Let's Talk about layers in my Project :
   <li>API Layer</li>
   <li>Service Layer</li>
   <li> Dal Layer</li>
-  <li> Dal Layer</li>
+  <li> DATA Layer </li>
 </ul>
 
 See Full Project on my Github : https://github.com/Saba-Burduli/GYM-Management-Web-API-Project
