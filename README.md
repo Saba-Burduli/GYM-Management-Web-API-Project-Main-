@@ -14,7 +14,7 @@ Let's Talk about layers in my Project :
 <ul>
   <li>API Layer</li>
   <li>Service Layer</li>
-  <li> Dal Layer</li>
+  <li>Dal Layer</li>
   <li>DATA Layer</li>
 </ul>
 
