@@ -14,7 +14,7 @@ Let's Talk about layers in my Project :
 <ul>
   <li>API Layer</li>
   <li>Service Layer</li>
-  <li> SubscripitonInfo()</li>
+  <li> Dal Layer</li>
 </ul>
 
 See Full Project on my Github : https://github.com/Saba-Burduli/GYM-Management-Web-API-Project
