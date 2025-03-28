@@ -26,17 +26,13 @@ Let's Talk about layers in my Project :
 And Dive deeper in this Layers :
 <ul>
   <li>API Layer</li>
-    <p>The API layer is responsible for handling HTTP requests and responses in an ASP.NET Web API project. It acts as the bridge between the client applications and the database.
+    <p>The **API layer** is responsible for handling **HTTP requests and responses** in an ASP.NET Web API project. It acts as the bridge between the client applications and the database.
 
-Key Responsibilities
-
-Routing Requests: Maps incoming requests to the appropriate controller and action method.
-
-Data Processing: Retrieves, processes, and returns data using Entity Framework.
-
-Validation & Authentication: Ensures data integrity and security.
-
-Response Formatting: Returns data in JSON or XML format for easy consumption.</p>
+### Key Responsibilities
+- **Routing Requests**: Maps incoming requests to the appropriate controller and action method.
+- **Data Processing**: Retrieves, processes, and returns data using Entity Framework.
+- **Validation & Authentication**: Ensures data integrity and security.
+- **Response Formatting**: Returns data in JSON or XML format for easy consumption.</p>
   <li></li>
   <li></li>
   <li></li>
@@ -45,3 +41,6 @@ Response Formatting: Returns data in JSON or XML format for easy consumption.</p
 See Full Project on my Github : https://github.com/Saba-Burduli/GYM-Management-Web-API-Project
 
 For more Info Contact Me on My Mail : sabagg790@gmail.com
+
+
+
