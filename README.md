@@ -25,7 +25,18 @@ Let's Talk about layers in my Project :
 <br>
 And Dive deeper in this Layers :
 <ul>
-  <li></li>
+  <li>API Layer</li>
+    <p>The API layer is responsible for handling HTTP requests and responses in an ASP.NET Web API project. It acts as the bridge between the client applications and the database.
+
+Key Responsibilities
+
+Routing Requests: Maps incoming requests to the appropriate controller and action method.
+
+Data Processing: Retrieves, processes, and returns data using Entity Framework.
+
+Validation & Authentication: Ensures data integrity and security.
+
+Response Formatting: Returns data in JSON or XML format for easy consumption.</p>
   <li></li>
   <li></li>
   <li></li>
