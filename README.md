@@ -43,7 +43,9 @@ Let's Talk about layers in my Project :
       It contains business logic and ensures a clean separation of concerns.
   </p>
   
-  <li>DAL (Data Access Layer)</li>
+  <h3><li>DAL (Data Access Layer)</li></h3>
+    <p>The DAL handles direct interactions with the database, abstracting raw database operations.
+  </p>
   <li></li>
   
 </ol>
