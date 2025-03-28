@@ -12,7 +12,7 @@ We gonna add and create in IRepository Folder . Because If non ethical hacker tr
 Let's Talk about layers in my Project :
 
 <ul>
-  <li>API layer</li>
+  <li>API Layer</li>
   <li>RegisterUser()</li>
   <li> SubscripitonInfo()</li>
 </ul>
